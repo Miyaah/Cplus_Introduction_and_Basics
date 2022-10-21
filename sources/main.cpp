@@ -151,10 +151,11 @@ int main()
 }
 #endif
 
-
+#if 0 // GIT TEST
 int main()
 {
   cout << "testing on GIT" << endl;
 
-  return 0; // end of the functions.
+  return 0; 
 }
+#endif
