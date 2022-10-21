@@ -150,3 +150,11 @@ int main()
   return 0;
 }
 #endif
+
+
+int main()
+{
+  cout << "testing on GIT" << endl;
+
+  return 0; // end of the functions.
+}
